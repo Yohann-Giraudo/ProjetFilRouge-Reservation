@@ -1,0 +1,103 @@
+---
+Header :
+---
+
+Un titre principal (<h1>) présentant le site, du type “Book Your Travel”.
+
+Le logo du site (probablement à gauche).
+
+Un menu de navigation principal (<nav><ul> avec plusieurs <li><a>).
+
+Une barre de recherche pour réserver ou filtrer des offres.
+
+Un bouton de recherche ou de validation (“Search” / “Book now”).
+
+Éventuellement une zone utilisateur (connexion / compte).
+
+---
+Main :
+---
+
+Section 1 – Bande d’accueil (Hero) :
+
+Des grandes images de fond qui peuvent être “slidable”.
+
+Un bouton d’action (<button>) permettant de slide entre les images. 
+
+Une section complète avec 5 div pour chaque bloc (1-2-3-4+bouton) (Filtre de recherche)
+
+---
+Section 2 – Offres ou destinations populaires :
+
+Un titre de section (<h2>) “Explore our latest offerts”
+
+Une grille d’éléments sous forme de cartes (<div class="cards">).
+
+Il faudrait plusieurs carte de Promo/Offres/Destinations Populaire.
+
+Chaque carte contient :
+
+Une image (<img>),
+
+Un nom de destination (<h3>),
+
+Un prix ou une courte description (<p>),
+
+Une séparation (<hr>),
+
+Un bouton pour nous rediriger sur l'offre.
+
+---
+Section 3 - destination 
+
+Un titre (<h2>) “Top destinations around the World”
+
+Une grille d’éléments sous forme de cartes (<div class="cards">).
+
+Il faudrait au moins 10 carte pour plusieurs pays
+
+Chaque carte contient :
+
+Une image (<img>),
+
+Un nom de destination (<h3>),
+
+Un bouton pour nous rediriger sur l'offre
+
+Une séparation (<hr>)
+
+Une courte description (<p>)
+
+Un div en colonne de 2 avec chacune
+Un icône hôtel + text + prix
+
+---
+Section 4 – zone de témoignages où infos complémentaires :
+
+Une séparation (<hr>)
+
+Une grille d’éléments sous forme de cartes (<div class="cards">).
+
+il faudrait pluseiurs cartes sur des informations complémentaire utiles en mode Question Reponse.
+
+Chaque carte contient :
+
+Un titre (<h2>)
+Une séparation (<hr>)
+Un paragraphe (où quote) (<p> où 
+
+---
+Footer :
+---
+
+Plusieurs colonnes ou sections (<section> ou <div>).
+
+Une zone “About us” avec un texte descriptif.
+
+Une zone “Customer support”
+
+Une zone “Follow us” avec des icônes de réseaux sociaux (Facebook, Twitter, etc.) avec ça une zone “Quick Links” avec une liste de liens (<ul><li><a>).
+
+Une zone “Don’t miss our……” avec un champ input pour entrer son adresse mail avec un bouton pour envoyer et pouvoir s’abonner à la news letter.
+
+En bas, une ligne de copyright (<p>) avec la mention “© 2025 Book Your Travel”.
